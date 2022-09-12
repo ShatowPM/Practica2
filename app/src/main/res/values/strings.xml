@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="TextView1">Myproject</string>
+    <string name="TextView2">Usuario</string>
+    <string name="EditText1">Ingrese Usuario</string>
+    <string name="TextView3">Contraseña</string>
+    <string name="EditText2">Ingrese Contraseña</string>
+    <string name="TextButton">Ingresar</string>
+    <string name="CheckBox1">Opcion 1</string>
+    <string name="CheckBox2">Opcion 1</string>
+    <string name="TextButton2">Progress Bar</string>
+</resources>
